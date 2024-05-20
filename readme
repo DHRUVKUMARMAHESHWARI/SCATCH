@@ -1,0 +1,21 @@
+usermodel 
+ 
+  full name  => String
+  email  => String
+  password => String
+  cart => array
+  isAdmin => boolean
+  order => array
+  contact number => numbers
+  picture => String
+
+product model
+
+product
+image
+name
+price
+discount
+bgcolor
+panelcolor
+textcdlor
